@@ -28,11 +28,7 @@
 A TensorFlow-powered web app for pest identification with 90%+ accuracy using CNNs and real-time image classification.
 
 🔹 **[NAVISIGHT](https://github.com/MNaveenReddy123/NAVISIGHT)**  
-An AI-powered indoor navigation system for the visually impaired using YOLOv11, MiDaS, and LLaVA integrated into a mobile app via Flutter and FastAPI backend.
-
-🔹 **[URL Classifier AI Web Tool](https://github.com/MNaveenReddy123/url-classifier)**  
-A real-time URL classification system using Scikit-learn and Flask to detect malicious or phishing URLs with 94% accuracy.
-
+An AI-powered indoor navigation system for the visually impaired using YOLOv11, MiDaS, and LLaVA integrated into a mobile app via Flutter and FastAPI backend
 🔹 **[FinZ – Gen Z Financial Learning Platform](https://colossus2-0-span-m1ey.vercel.app/)**  
 A gamified financial literacy platform with XP-based progression, Mistral 7B LLM chatbot using HuggingFace Transformers, and dynamic analytics dashboard built on Next.js and Supabase.
 
