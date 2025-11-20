@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me  
-- 🎓 B.Tech CSE student @ Dayananda Sagar University (CGPA: 9.28)  
+- 🎓 B.Tech CSE student @ Dayananda Sagar University (CGPA: 9.22)  
 - 👨‍💻 Working on AI, Computer Vision, and GenAI solutions  
 - 💻 Experienced with full-stack development using MERN, Next.js, Flask, and FastAPI  
 - 🔭 Currently exploring LangChain, LLaVA, and Azure OpenAI  
